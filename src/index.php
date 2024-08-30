@@ -58,6 +58,7 @@
                         <a class="btn btn-secondary btn-square mx-1" href="https://www.linkedin.com/in/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%A5-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%94-2a2a232a6/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="btn btn-secondary btn-square mx-1" href="https://www.instagram.com/p.pratchayapol"><i class="fab fa-instagram"></i></a>
                         <a class="btn btn-secondary btn-square mx-1" href="https://www.youtube.com/@user-yn2hw3xf5t"><i class="fab fa-youtube"></i></a>
+                        <a class="btn btn-secondary btn-square mx-1" href="https://github.com/pratchayapol"><i class="fab fa-git"></i></a>
                     </div>
                     <div class="d-flex align-items-end justify-content-between border-top">
                         <a href="https://pcnone.com" class="btn w-50 border-end">TO Domain</a>
