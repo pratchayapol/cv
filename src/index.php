@@ -204,6 +204,7 @@
                             <h5 class="mb-1">FULL-STACK DEVELOPER</h5>
                             <p class="mb-2">APR 2024 - JUL 2024 | <small>Faculty of Nursing Khon Kaen University</small></p>
                             <p>   It is the development of a web application for project management and balance control. Faculty of Nursing Khon Kaen University For adding projects and calculating costs within the project each year Report files can be created in Word, developed in PHP using the MariaDB database, and sent through an API with Node.js running through Docker within the server. Khon Kaen University Accessible through the university's SSO system. To facilitate checking the budget amount spent each year for management to know.</p>
+                            <a href="https://nueportfolio.kku.ac.th">Nursing skills practice recording system Faculty of Nursing Khon Kaen University</a>
                         </div>
                         <div class="position-relative mb-4">
                             <span class="bi bi-arrow-right fs-4 text-light position-absolute" style="top: -5px; left: -50px;"></span>
@@ -211,6 +212,7 @@
                             <p class="mb-2">Nov 2023 - MAR 2024 | <small>Faculty of Nursing Khon Kaen University</small></p>
                             <p>   It is the development of a web application system for recording nursing skills practice.
                             Faculty of Nursing Khon Kaen University For providing services to students and teachers in recording nursing skills using PHP and MySQL, running through Docker on the server of Khon Kaen University. Accessible through university SSO. To facilitate tracking of the skills that students have practiced within and outside of the educational institution.</p>
+                            <a href="https://pmnu.kku.ac.th">Project management and balance control system Faculty of Nursing Khon Kaen University</a>
                         </div>
 
                     </div>
