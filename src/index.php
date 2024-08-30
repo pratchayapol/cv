@@ -13,12 +13,12 @@
         <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon-16x16.png">
         <link rel="manifest" href="./img/site.webmanifest">
+        <link rel="shortcut icon" href="./image/favicon.ico" type="image/x-icon">
 
         <!-- Google Web Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
+        <link href="https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Playwrite+DE+Grund:wght@100..400&family=SUSE:wght@100..800&display=swap" rel="stylesheet">
         <!-- Icon Font Stylesheet -->
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
@@ -33,6 +33,12 @@
 
         <!-- Template Stylesheet -->
         <link href="css/style.css" rel="stylesheet">
+        <style>
+            body {
+                font-family: "Noto Sans", sans-serif;
+                font-optical-sizing: auto;
+            }
+        </style>
 </head>
 
 <body>
