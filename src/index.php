@@ -481,6 +481,33 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+     <!-- Snowfall Script -->
+<script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.min.js"></script>
+<script>
+  // Initialize the snowfall effect
+  var sf = new Snowflakes({
+    color: "#ffffff", // Snowflake color
+    minOpacity: 1,
+    minSize: 5,
+    maxSize: 20
+  });
+</script>
+
+
+<!-- Rainfall Script -->
+<!-- <script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.min.js"></script>
+<script>
+  // Initialize the rain effect
+  var sf = new Snowflakes({
+    color: "#00aaff", // Raindrop color (blueish)
+    minOpacity: 0.7, // Raindrops are semi-transparent
+    minSize: 2, // Smaller raindrop size
+    maxSize: 20, // Larger raindrop size
+    speed: 3, // Faster falling speed for raindrops
+    wind: 0.5, // Slight horizontal movement
+    rotation: false, // No rotation to simulate raindrops falling straight
+  });
+</script> -->
 </body>
 
 </html>
